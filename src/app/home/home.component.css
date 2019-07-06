@@ -1,0 +1,17 @@
+.stackpanel {
+  margin: 5px;
+}
+
+.stackpanel-child {
+  display: inline-block;
+  font-size: 14px;
+  min-height: 34px;
+  line-height: 15px;
+  margin: 0;
+  padding: 0 15px;
+  vertical-align: middle;
+}
+
+.filter-area {
+  padding-top: 7px;
+}
